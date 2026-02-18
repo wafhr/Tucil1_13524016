@@ -1,6 +1,5 @@
 import sys
 import time
-import copy
 import cv2
 import numpy as np
 from PyQt6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
